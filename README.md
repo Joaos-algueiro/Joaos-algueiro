@@ -22,7 +22,7 @@
 
 Sou desenvolvedor fullstack em formação, morando em **Petrópolis/RJ**. Passei quase **4 anos em suporte técnico** antes de migrar de vez para o desenvolvimento — e essa bagagem me deixou com uma cabeça bem prática: resolver problema de verdade, entender o usuário e não ter medo de debugar até o fim.
 
-- 🎓 **Desenvolvimento Fullstack — FAETERJ Petrópolis**
+- 🎓 **Tecnologia da Informação e Comunicação — FAETERJ Petrópolis**
 - 🚀 **Residência em TIC Fullstack — SERRATEC**, onde trabalhei em projetos reais com empresas parceiras, em times de até 11 pessoas, com Scrum, sprints e code review
 - 🧩 Foco atual: **APIs REST com Spring Boot**, modelagem de dados em **PostgreSQL** e front em **React / React Native**
 - 🤖 Estudei **IA aplicada**: prompt engineering, RAG, bancos vetoriais e automações simples com **n8n**
