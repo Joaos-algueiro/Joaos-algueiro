@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Jo%C3%A3o%20Salgueiro&fontColor=ffffff&fontSize=42&fontAlignY=32&desc=Desenvolvedor%20FullStack&descAlignY=52&descSize=18" width="100%"/>
 
-<a href="https://www.linkedin.com/in/Joao-salgueiro" target="_blank">
+<a href="https://www.linkedin.com/in/joãosalgueiro" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:joaosalgueiro238@gmail.com">
