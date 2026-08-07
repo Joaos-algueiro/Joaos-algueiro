@@ -23,10 +23,10 @@
 Sou desenvolvedor fullstack em formação, morando em **Petrópolis/RJ**. Passei quase **4 anos em suporte técnico** antes de migrar de vez para o desenvolvimento — e essa bagagem me deixou com uma cabeça bem prática: resolver problema de verdade, entender o usuário e não ter medo de debugar até o fim.
 
 - 🎓 **Desenvolvimento Fullstack — FAETERJ Petrópolis**
-- 🚀 **Residência em TIC Fullstack — SERRATEC**, onde trabalho em projetos reais com empresas parceiras, em times de até 11 pessoas, com Scrum, sprints e code review
+- 🚀 **Residência em TIC Fullstack — SERRATEC**, onde trabalhei em projetos reais com empresas parceiras, em times de até 11 pessoas, com Scrum, sprints e code review
 - 🧩 Foco atual: **APIs REST com Spring Boot**, modelagem de dados em **PostgreSQL** e front em **React / React Native**
-- 🤖 Estudando **IA aplicada**: prompt engineering, RAG, bancos vetoriais e automações com **n8n**
-- 💡 Gosto de projeto que resolve algo — a maioria dos meus repositórios nasceu de um problema real que eu quis automatizar
+- 🤖 Estudei **IA aplicada**: prompt engineering, RAG, bancos vetoriais e automações simples com **n8n**
+- 💡 Gosto de projeto que resolve algo — a maioria dos meus repositórios nasceu de um problema real que eu quis desenvolver soluções práticas.
 
 ---
 
@@ -73,13 +73,10 @@ Sou desenvolvedor fullstack em formação, morando em **Petrópolis/RJ**. Passei
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| **🏢 Hub — Gestão de Influenciadores** | Plataforma desenvolvida para empresa parceira na residência do SERRATEC. Sou responsável pelo módulo de **Influenciadores** (CRUD com filtros dinâmicos via *Specification*), pelo endpoint de **ranking por objetivos** consumindo função PostgreSQL, relatórios de métricas de campanha e **exportação em Excel com Apache POI**. | `Spring Boot` `PostgreSQL` `JWT` `Flyway` `React` |
-| **🔎 Repo Insight** | Aplicação que analisa repositórios públicos do GitHub e gera insights sobre o código, com slot de integração para IA generativa. | `Spring Boot` `React` `REST API` |
+| **🏢 Hub — Gestão de Influenciadores** | Plataforma desenvolvida para empresa parceira na residência do SERRATEC. Sou responsável pelo módulo de **Influenciadores** (CRUD com filtros dinâmicos via *Specification*), pelo endpoint de **ranking por objetivos** consumindo função PostgreSQL, **Briefings** (CRUD de briefing, com criterios) toda a logica por trás. | `Spring Boot` `PostgreSQL` `JWT` `Flyway` `React` |
 | **🩸 HemoLink** | App de doação de sangue (web + mobile) conectando doadores a hospitais. Fiz tela de perfil com persistência de foto, contexto de autenticação, favoritos com Context API e confirmação de doação. | `React` `React Native` `Expo` `TypeScript` |
 | **🛒 API E-commerce** | API de e-commerce em grupo. Implementei o pacote de tratamento de erros (`GlobalExceptionHandler` + exceptions customizadas), o módulo de **Ordem de Compra** (N:N com atributo extra, enum de status, baixa/reposição de estoque) e validador de CPF com o algoritmo oficial. | `Spring Boot` `JPA` `Swagger` |
 | **🚗 API Concessionária** | API REST do zero: entidades Cliente/Veículo, relacionamentos, DTOs, exceptions customizadas e documentação Swagger. | `Java` `Spring Boot` `JPA` |
-| **🌐 Crakudos Checker Pro** | Ferramenta desktop de verificação de domínios que cruza **DNS + RDAP + WHOIS** e detecta marketplaces. Motor CLI próprio, interface gráfica em CustomTkinter e build `.exe`. | `Python` `CustomTkinter` `PyInstaller` |
-| **🕵️ Tool Whoxy** | SDK/CLI para a WHOIS History API, com cache em SQLite pra economizar créditos, processamento em lote com barra de progresso, logs e export CSV/JSON. | `Python` `SQLite` `API Integration` |
 
 > 📂 Todos os repositórios estão fixados abaixo — dá uma olhada nos *pinned*.
 
@@ -89,12 +86,13 @@ Sou desenvolvedor fullstack em formação, morando em **Petrópolis/RJ**. Passei
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Joaos-algueiro&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaos-algueiro&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7"/>
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Joaos-algueiro&theme=github_dark"/>
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Joaos-algueiro&theme=github_dark"/>
 
 <br/>
 
-<img height="165" src="https://streak-stats.demolab.com?user=Joaos-algueiro&theme=tokyonight&hide_border=true&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7"/>
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Joaos-algueiro&theme=github_dark"/>
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Joaos-algueiro&theme=github_dark&utcOffset=-3"/>
 
 <br/><br/>
 
@@ -102,7 +100,7 @@ Sou desenvolvedor fullstack em formação, morando em **Petrópolis/RJ**. Passei
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Joaos-algueiro&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Joaos-algueiro&theme=github_dark" width="98%"/>
 
 <br/><br/>
 
